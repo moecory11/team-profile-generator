@@ -17,6 +17,8 @@
   ## Usage 
           Once you have installed and ran "node.index.js" in the terminal you will be prompted questions to start building your team. First, you will be asked to enter your manager information and then you will have the option to add an "Engineer", "Intern' or finsh with "build team". Once complete with all enteries choose "build team" and your profile will be created in the index.html file
 ![alt text](images/screenshot.2.png)
+
+[Link to Video Tutorial](https://drive.google.com/file/d/1cSJNPr9TmW76SZ6f0l9qxjBvVnCNW3c6/view)
   ## License
           MIT
   ## Contributing
