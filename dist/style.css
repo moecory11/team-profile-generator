@@ -1,0 +1,11 @@
+header {
+    background-color: #e84756;
+    height: 100px;
+}
+
+.blue {
+    background-color: #0077f7;
+}
+.brdr-shdw {
+    box-shadow: 5px 5px 5px grey;
+}
